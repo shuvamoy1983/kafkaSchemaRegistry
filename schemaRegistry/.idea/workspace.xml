@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73520b5c-2fe4-4ac5-8371-aca776513ced" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZJDDkirlg3vc7KhniWYnyDPgxI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala/org/example/schemaRegistry" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/org/example/schemaRegistry" />
+      <recent name="$PROJECT_DIR$/src/main/scala/org/example" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReadWithSchema">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="schemaRegistry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWithSchema" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.schemaRegistry.writeOps.ReadWithSchema" />
+      <module name="schemaRegistry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.schemaRegistry.writeOps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteWithSchema" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.schemaRegistry.writeOps.WriteWithSchema" />
+      <module name="schemaRegistry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.schemaRegistry.writeOps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReadWithSchema" />
+        <item itemvalue="Application.WriteWithSchema" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73520b5c-2fe4-4ac5-8371-aca776513ced" name="Default Changelist" comment="" />
+      <created>1584548185684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584548185684</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="162" width="720" height="637" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1584550822646">
+      <screen x="67" y="27" width="1853" height="908" />
+    </state>
+    <state x="623" y="162" width="720" height="637" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/67.27.1853.908@67.27.1853.908" timestamp="1584550822646" />
+    <state x="771" y="238" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584556579679">
+      <screen x="67" y="27" width="1853" height="908" />
+    </state>
+    <state x="771" y="238" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.908@67.27.1853.908" timestamp="1584556579679" />
+    <state width="1807" height="216" key="GridCell.Tab.0.bottom" timestamp="1584561556771">
+      <screen x="67" y="27" width="1853" height="908" />
+    </state>
+    <state width="1807" height="216" key="GridCell.Tab.0.bottom/67.27.1853.908@67.27.1853.908" timestamp="1584561556771" />
+    <state width="1807" height="216" key="GridCell.Tab.0.center" timestamp="1584561556769">
+      <screen x="67" y="27" width="1853" height="908" />
+    </state>
+    <state width="1807" height="216" key="GridCell.Tab.0.center/67.27.1853.908@67.27.1853.908" timestamp="1584561556769" />
+    <state width="1807" height="216" key="GridCell.Tab.0.left" timestamp="1584561556767">
+      <screen x="67" y="27" width="1853" height="908" />
+    </state>
+    <state width="1807" height="216" key="GridCell.Tab.0.left/67.27.1853.908@67.27.1853.908" timestamp="1584561556767" />
+    <state width="1807" height="216" key="GridCell.Tab.0.right" timestamp="1584561556770">
+      <screen x="67" y="27" width="1853" height="908" />
+    </state>
+    <state width="1807" height="216" key="GridCell.Tab.0.right/67.27.1853.908@67.27.1853.908" timestamp="1584561556770" />
+    <state x="476" y="58" width="1024" height="845" key="SettingsEditor" timestamp="1584551662627">
+      <screen x="67" y="27" width="1853" height="908" />
+    </state>
+    <state x="476" y="58" width="1024" height="845" key="SettingsEditor/67.27.1853.908@67.27.1853.908" timestamp="1584551662627" />
+    <state x="649" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1584548264249">
+      <screen x="67" y="27" width="1853" height="908" />
+    </state>
+    <state x="649" y="308" key="com.intellij.ide.util.TipDialog/67.27.1853.908@67.27.1853.908" timestamp="1584548264249" />
+  </component>
+</project>
